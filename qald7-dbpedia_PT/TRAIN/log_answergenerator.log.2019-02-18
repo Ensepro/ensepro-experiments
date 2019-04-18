@@ -1,0 +1,10 @@
+18-02-2019 11:07:08  INFO [main] (Main.java:26) - ####################################################################################
+18-02-2019 11:07:08  INFO [main] (Main.java:27) - #### STARTING PROCESS: Configuration(loadFile=resultado_normalizado.json, saveFile=queries_renqueadas.json, threads=20, level=1, resultSize=10000)
+18-02-2019 11:07:08  INFO [main] (Main.java:28) - ####################################################################################
+18-02-2019 11:07:09  INFO [AnswerProducerLevel1] (AnswerProducerLevel1.java:25) - Starting
+18-02-2019 11:07:09  INFO [main] (AnswerConsumer.java:63) - getAnswer() - waiting to finish
+18-02-2019 11:07:09  INFO [AnswerProducerLevel1.Consumer] (AnswerConsumer.java:33) - producer.join()
+18-02-2019 11:07:09  INFO [AnswerProducerLevel1] (AnswerProducerLevel1.java:27) - Finished
+18-02-2019 11:07:09  INFO [AnswerProducerLevel1.Consumer] (AnswerConsumer.java:35) - executing callables (28877)
+18-02-2019 11:07:09  INFO [AnswerProducerLevel1.Consumer] (AnswerConsumer.java:41) - callables executed
+18-02-2019 11:07:09  INFO [main] (AnswerConsumer.java:68) - getAnswer() - returning

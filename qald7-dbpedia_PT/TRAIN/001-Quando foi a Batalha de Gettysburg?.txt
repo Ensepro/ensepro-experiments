@@ -1,0 +1,21 @@
+
+Melhores respostas:
+
+Lista de triplas candidatas a resposta: 
+0 11.333 [*batalha_de_gettysburg | comandante | robert_e._lee] - [10.000 0.333 1.000]
+1 11.333 [*batalha_de_gettysburg | partede | guerra_de_secessao] - [10.000 0.333 1.000]
+2 11.333 [*batalha_de_gettysburg | conflito | batalha de gettysburg] - [10.000 0.333 1.000]
+3 11.333 [john_gibbon | batalhas | *batalha_de_gettysburg] - [10.000 0.333 1.000]
+4 11.333 [*batalha_de_gettysburg | forca | 88289] - [10.000 0.333 1.000]
+5 11.333 [*batalha_de_gettysburg | local | gettysburg, pensilvania, estados unidos] - [10.000 0.333 1.000]
+6 11.333 [*batalha_de_gettysburg | comandante | george_gordon_meade] - [10.000 0.333 1.000]
+7 11.333 [oliver_otis_howard | batalhas | *batalha_de_gettysburg] - [10.000 0.333 1.000]
+8 11.333 [*batalha_de_gettysburg | combatente | 25] - [10.000 0.333 1.000]
+9 11.333 [*batalha_de_gettysburg | imagem | 300] - [10.000 0.333 1.000]
+10 11.333 [*batalha_de_gettysburg | forca | 75000] - [10.000 0.333 1.000]
+11 11.333 [*batalha_de_gettysburg | legenda | a batalha de gettysburg] - [10.000 0.333 1.000]
+12 11.333 [john_newton_(engenheiro) | batalhas | *batalha_de_gettysburg] - [10.000 0.333 1.000]
+13 11.333 [*batalha_de_gettysburg | resultado | vitoria decisiva da uniao.] - [10.000 0.333 1.000]
+14 11.333 [*batalha_de_gettysburg | data | 1] - [10.000 0.333 1.000]
+15 11.333 [*batalha_de_gettysburg | vitimas | 23049] - [10.000 0.333 1.000]
+16 11.333 [*batalha_de_gettysburg | vitimas | 28063] - [10.000 0.333 1.000]

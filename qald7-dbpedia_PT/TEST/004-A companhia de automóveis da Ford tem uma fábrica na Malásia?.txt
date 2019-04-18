@@ -1,0 +1,8 @@
+Analisando frase(s)... 
+
+Melhores respostas:
+0 11.344 [renault_f1_team | base | *enstone, oxfordshire, inglaterra | *grande_premio_da_malasia_de_2003 | poleequipe | renault_f1_team] - [9.677 0.667 1.000]
+
+Lista de triplas candidatas a resposta: 
+0 11.344 [renault_f1_team | base | *enstone, oxfordshire, inglaterra | *grande_premio_da_malasia_de_2003 | poleequipe | renault_f1_team] - [9.677 0.667 1.000]
+1 10.852 [renault_f1_team | base | *enstone, oxfordshire, inglaterra | *grande_premio_da_malasia_de_2003 | terceiropilotoequipe | renault_f1_team] - [9.185 0.667 1.000]

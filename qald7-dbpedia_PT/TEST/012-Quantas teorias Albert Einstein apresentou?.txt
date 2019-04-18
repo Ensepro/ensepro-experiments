@@ -1,0 +1,4 @@
+Analisando frase(s)... 
+
+
+Command 'java -jar /root/github/ensepro-answer-generator/target/ensepro-answer-generator-1.0-SNAPSHOT-spring-boot.jar resultado_normalizado.json 100 20 2' returned non-zero exit status 1.

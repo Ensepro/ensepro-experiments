@@ -1,0 +1,7 @@
+
+Melhores respostas:
+0 2.333 [alberto_dos_santos_franco | ocupacao | *oceanografo] - [2.000 0.333 0.000]
+
+Lista de triplas candidatas a resposta: 
+0 2.333 [alberto_dos_santos_franco | ocupacao | *oceanografo] - [2.000 0.333 0.000]
+1 0.350 [expedicao_nacional_antartica_escocesa | title | *william speirs bruce, 18671921. polar explorer and oceanographer: biographical information] - [0.017 0.333 0.000]

@@ -1,0 +1,186 @@
+Frase 1: Quando foi a Batalha de Gettysburg?['batalha_de_gettysburg', 'data', '1']
+Frase 2: Liste todos os musicais com músicas de Elton John.['aida_(musical)', 'musica', 'elton_john']['billy_elliot___the_musical', 'musica', 'elton_john']['o_rei_leao_(musical)', 'musica', 'elton_john']
+Frase 3: Qual a altura do Farol em Colombo?
+Frase 4: Quem foi a esposa do presidente americano Lincoln?['abraham_lincoln', 'conjuge', 'mary todd']
+Frase 5: Quem é o apresentador do BBC Wildlife Specials?
+Frase 6: Quanto custou Pulp Fiction?['pulp_fiction', 'orcamento', 'us$ 8 milhoes']
+Frase 7: Em que cidade fica a cervejaria Heineken?['heineken', 'sede', 'amsterda']
+Frase 8: Quando começou a Operação Overlord?['operacao_overlord', 'data', '6']
+Frase 9: Em que cidade termina a Rota 68 do Chile?
+Frase 10: Quem desenvolveu o Slack?
+Frase 11: Quem foi casada com o presidente Chirac?['jacques_chirac', 'esposa', 'bernadette_chirac']
+Frase 12: De que morreu Bruce Carver?
+Frase 13: Quem pintou Tormenta no Mar da Galileia?
+Frase 14: Em quais cidades o rio Weser passa?
+Frase 15: Quantas cadeiras tem o estádio do FC Porto?['futebol_clube_do_porto', 'capacidade', '50035']
+Frase 16: Com quem a filha de Robert Kennedy se casou?
+Frase 17: Que livros de Kerouac foram publicados pela Viking Press?['on_the_road', 'autor', 'jack_kerouac']['on_the_road', 'editora', 'viking_press']
+Frase 18: Qual a altura de Amazon Eve?
+Frase 19: Em que museu está exposto O Grito de Munch?['o_grito', 'museu', 'galeria nacional']['o_grito', 'artista', 'edvard_munch']
+Frase 20: Quem escreveu o livro Os Pilares da Terra?['os_pilares_da_terra', 'autor', 'ken_follett']
+Frase 21: James Bond é casado?
+Frase 22: Quem descobriu Ceres?
+Frase 23: Que rio a Ponte do Brooklyn cruza?['ponte_do_brooklyn', 'cruza', 'rio_east']
+Frase 24: Quem foi chamado de Frank The Tank?
+Frase 26: Quem é o prefeito de Paris?['paris', 'prefeito', 'anne hidalgo']
+Frase 27: Quem é o treinador da equipe de hockey no gelo de Ankara?
+Frase 28: Quem é o prefeito da capital da Polinésia Francesa?['polinesia_francesa', 'capital', 'papeete']['papeete', 'prefeito', 'michel buillard']
+Frase 29: Que prêmios Douglas Hofstadter ganhou?
+Frase 30: Quanto custou The Lego Movie?['the_lego_movie', 'orcamento', 'us$ 60 milhoes']
+Frase 31: Onde começa a Piccadilly?
+Frase 32: O Príncipe Harry e o Príncipe William têm os mesmos pais?
+Frase 33: Quem interpretou o Agente Smith em Matrix?['agente_smith', 'interprete', 'hugo_weaving']['agente_smith', 'obra', 'matrix']
+Frase 34: Quantos idiomas são falados no Turcomenistão?['lingua_cazaque', 'estados', 'turcomenistao']['lingua_erzya', 'estados', 'turcomenistao']['lingua_turcomena', 'estados', 'turcomenistao']['lingua_usbeque', 'estados', 'turcomenistao']
+Frase 35: Em que filmes Julia Roberts e Richard Gere atuaram?['noiva_em_fuga', 'elenco', 'julia_roberts']['noiva_em_fuga', 'elenco', 'richard_gere']['pretty_woman', 'elenco', 'julia_roberts']['pretty_woman', 'elenco', 'richard_gere']
+Frase 36: Em que país nasce o Ganges?
+Frase 37: Em que ano nasceu Rachel Stevens?
+Frase 38: Barack Obama é um democrata?
+Frase 39: Onde nasceu Bach?['johann_sebastian_bach', 'origem', 'eisenach']
+Frase 40: Quantas vezes Jane Fonda se casou?['jane_fonda', 'conjuge', 'roger vadim']['jane_fonda', 'conjuge', 'ted_turner']['jane_fonda', 'conjuge', 'tom hayden']
+Frase 42: Quantas pessoas vivem na Polônia?['polonia', 'populacaoestimada', '38441588']
+Frase 43: Qual é a localização do Palácio de Westminster?
+Frase 44: Christian Bale atua em Batman Begins?['batman_begins', 'elenco', 'christian_bale']
+Frase 45: Em que país fica o Lago Limerick?
+Frase 48: Frank Herbert ainda vive?
+Frase 49: Quem criou Family Guy?['family_guy', 'criador', 'seth_macfarlane']
+Frase 50: Qual a língua oficial do Suriname?['suriname', 'linguaoficial', 'lingua_neerlandesa']
+Frase 51: Quem escreveu a canção Hotel California?['hotel_california_(cancao)', 'compositor', 'don felder, glenn frey, don henley']
+Frase 52: Liste todos os atores que estrelaram em filmes dirigidos por William Shatner.['star_trek_v:_the_final_frontier', 'direcao', 'william_shatner']['star_trek_v:_the_final_frontier', 'direcao', 'william_shatner']['star_trek_v:_the_final_frontier', 'direcao', 'william_shatner']['star_trek_v:_the_final_frontier', 'direcao', 'william_shatner']['star_trek_v:_the_final_frontier', 'direcao', 'william_shatner']['star_trek_v:_the_final_frontier', 'direcao', 'william_shatner']['star_trek_v:_the_final_frontier', 'direcao', 'william_shatner']['star_trek_v:_the_final_frontier', 'direcao', 'william_shatner']['star_trek_v:_the_final_frontier', 'elenco', 'deforest_kelley']['star_trek_v:_the_final_frontier', 'elenco', 'george_takei']['star_trek_v:_the_final_frontier', 'elenco', 'james_doohan']['star_trek_v:_the_final_frontier', 'elenco', 'laurence luckinbill']['star_trek_v:_the_final_frontier', 'elenco', 'leonard_nimoy']['star_trek_v:_the_final_frontier', 'elenco', 'nichelle_nichols']['star_trek_v:_the_final_frontier', 'elenco', 'walter_koenig']['star_trek_v:_the_final_frontier', 'elenco', 'william_shatner']
+Frase 53: Quais são os ingredientes do biscoito de chocolate?
+Frase 54: Liste todos os skatistas profissionais da Suécia.
+Frase 55: Que ingredientes eu preciso para um bolo de cenoura?
+Frase 56: O Neymar joga no Real Madrid?
+Frase 57: Que cientista da computação ganhou um Oscar?
+Frase 58: Quantas empresas foram fundadas no mesmo ano que o Google?
+Frase 59: Em que cidade da Inglaterra está a sede do MI6?
+Frase 60: A Crise dos Mísseis de Cuba ocorreu antes da Invasão da Baía dos Porcos?
+Frase 61: Qual o significado de IYCM?
+Frase 62: Quando a Dinastia Ming acabou?['dinastia_ming', 'anofim', '1644']
+Frase 64: Qual é a população total de Melbourne, Florida?['melbourne_(florida)', 'populacao', '76068']
+Frase 65: Arnold Schwarzenegger frequentou uma universidade?['arnold_schwarzenegger', 'almamater', 'universidade de wisconsin-superior']
+Frase 66: Em que país está o Monte Everest?
+Frase 68: Ache todas as plataformas de lançamento espaciais operadas pela NASA.
+Frase 69: Quem é o prefeito de Tel Aviv?['tel_aviv', 'prefeito', 'ron_huldai']
+Frase 71: Quem criou Batman?['batman', 'criador', 'bill_finger']['batman', 'criador', 'bob_kane']
+Frase 72: Quem interpretou Gus Fring em Breaking Bad?
+Frase 73: Em que linguagem de programação foi escrito o GIMP?['gimp', 'linguagem', 'c']
+Frase 74: Em que império antigo você poderia pagar com grãos de cacau?
+Frase 75: Quem é o editor da Forbes?['forbes', 'editor', 'steve_forbes']
+Frase 76: Quantos habitantes tem a capital da Austrália?['australia', 'capital', 'camberra']['camberra', 'populacao', '356585']
+Frase 77: Quais surfistas profissionais nasceram na Austrália?
+Frase 78: Que companhias de eletrônica foram fundadas em Beijing?
+Frase 79: Mostre todos os video games da Mean Hamster Software.
+Frase 80: Quantas lojas Aldi existem?
+Frase 81: Qual a capital de Camarões?['camaroes', 'capital', 'yaounde']
+Frase 82: Há algum jogo eletrônico chamado Battle Chess?
+Frase 83: A esposa do presidente Lincoln se chamava Mary?['abraham_lincoln', 'conjuge', 'mary todd']
+Frase 84: Encontre todos os filmes dirigidos por Francis Ford Coppola.['apocalypse_now', 'direção', 'francis_ford_coppola']['captain_eo', 'direção', 'francis_ford_coppola']['dementia_13', 'direção', 'francis_ford_coppola']['dracula_de_bram_stoker', 'direção', 'francis_ford_coppola']['jack_(filme)', 'direção', 'francis_ford_coppola']['jardins_de_pedra', 'direção', 'francis_ford_coppola']['new_york_stories', 'direção', 'francis_ford_coppola']['peggy_sue_got_married', 'direção', 'francis_ford_coppola']['rumble_fish', 'direção', 'francis_ford_coppola']['tucker:_the_man_and_his_dream', 'direção', 'francis_ford_coppola']['the_conversation', 'direção', 'francis_ford_coppola']['the_godfather', 'direção', 'francis_ford_coppola']['the_godfather_(série_de_filmes)', 'direção', 'francis_ford_coppola']['the_godfather:_part_ii', 'direção', 'francis_ford_coppola']['the_godfather:_part_iii', 'direção', 'francis_ford_coppola']['the_outsiders_(filme)', 'direção', 'francis_ford_coppola']['the_rainmaker', 'direção', 'francis_ford_coppola']['twixt_now_and_sunrise_(filme)', 'direção', 'francis_ford_coppola']
+Frase 87: Quem era chamado de Rodzilla?
+Frase 88: Natalie Portman nasceu nos Estados Unidos?
+Frase 89: Mostre os netos de Elvis Presley.
+Frase 90: Quais filmes estrelados por Mickey Rourke foram dirigidos por Guy Ritchie?
+Frase 91: Quando morreu o criador de Drácula?
+Frase 92: De que país vem o criador de Miffy?
+Frase 93: Qual é o nome verdadeiro do Batman?
+Frase 94: Que forma de governo a Rússia possui?['russia', 'tipogoverno', 'republica']['russia', 'tipogoverno', 'semipresidencialismo']
+Frase 95: Quantas companhias foram fundadas pelo fundador do Facebook?['facebook', 'fundador', 'andrew_mccollum']['facebook', 'fundador', 'chris_hughes']['facebook', 'fundador', 'dustin_moskovitz']['facebook', 'fundador', 'eduardo_saverin']['facebook', 'fundador', 'mark_zuckerberg']
+Frase 96: Liste todas as gravadoras canadenses de música Grunge.
+Frase 97: Quantos filhos Benjamim Franklin teve?
+Frase 98: Liste os filhos de Margaret Thatcher.
+Frase 99: De que região é o Melon de Bourgogne?
+Frase 101: As rãs arborícolas são um tipo de anfíbio?
+Frase 102: Christian Bale atua em Velvet Goldmine?['velvet_goldmine', 'elenco', 'christian_bale']
+Frase 103: Liste todos os jogos da GMT.
+Frase 104: O Isar desemboca em um lago?
+Frase 105: Que aeroportos a Yeti Airlines serve?
+Frase 107: Que cor expressa a lealdade?
+Frase 109: Quem criou a Wikipedia?['wikipedia', 'desenvolvedor', 'jimmy_wales']['wikipedia', 'desenvolvedor', 'larry_sanger']
+Frase 110: Rita Wilson é a esposa de Tom Hanks?['rita_wilson', 'conjuge', 'tom_hanks']
+Frase 111: A esposa do presidente Obama se chama Michelle?['barack_obama', 'conjuge', 'michelle robinson']
+Frase 112: Quantos grupos étnicos vivem na Eslovênia?
+Frase 113: Quem é o presidente da Eritrea?['eritreia', 'nomelider', 'isaias_afewerki']
+Frase 114: Que filmes Stanley Kubrick dirigiu?['2001:_a_space_odyssey', 'direcao', 'stanley_kubrick']['barry_lyndon', 'direcao', 'stanley_kubrick']['dr._strangelove_or:_how_i_learned_to_stop_worrying_and_love_the_bomb', 'direcao', 'stanley_kubrick']['eyes_wide_shut', 'direcao', 'stanley_kubrick']['fear_and_desire', 'direcao', 'stanley_kubrick']["killer's_kiss", 'direcao', 'stanley_kubrick']['laranja_mecanica_(filme)', 'direcao', 'stanley_kubrick']['lolita_(filme_de_1962)', 'direcao', 'stanley_kubrick']['nascido_para_matar', 'direcao', 'stanley_kubrick']['paths_of_glory', 'direcao', 'stanley_kubrick']['spartacus_(filme)', 'direcao', 'stanley_kubrick']['the_killing', 'direcao', 'stanley_kubrick']['the_shining', 'direcao', 'stanley_kubrick']
+Frase 115: Quando o Titanic foi completado?
+Frase 116: Quantas páginas tem Guerra e Paz?['guerra_e_paz', 'paginas', '1225']
+Frase 119: Qual a altura de Claudia Schiffer?['claudia_schiffer', 'altura', '1,82 m']
+Frase 120: Quem foi o vice presidente de John F. Kennedy?['john_f._kennedy', 'vicepresidente', 'lyndon_b._johnson']
+Frase 121: Que subsidiária da Lufthansa atende Dortmund e Berlin?
+Frase 122: Quem foi o sucessor de John F. Kennedy?['john_f._kennedy', 'depois', 'lyndon_b._johnson']
+Frase 123: Quem é o compositor da trilha sonora do Titanic de Cameron?['titanic_(1997)', 'musica', 'james_horner']
+Frase 124: Quais filmes Kurosawa dirigiu?['asu_o_tsukuru_hitobito', 'direcao', 'akira_kurosawa']['dersu_uzala', 'direcao', 'akira_kurosawa']['donzoko', 'direcao', 'akira_kurosawa']['hakuchi', 'direcao', 'akira_kurosawa']['homem_mau_dorme_bem', 'direcao', 'akira_kurosawa']['ichiban_utsukushiku', 'direcao', 'akira_kurosawa']['ikiru', 'direcao', 'akira_kurosawa']['kagemusha', 'direcao', 'akira_kurosawa']['kakushi_toride_no_san_akunin', 'direcao', 'akira_kurosawa']['madadayo', 'direcao', 'akira_kurosawa']['nora_inu', 'direcao', 'akira_kurosawa']['o_barba_ruiva', 'direcao', 'akira_kurosawa']['os_sete_samurais', 'direcao', 'akira_kurosawa']['ran_(filme)', 'direcao', 'akira_kurosawa']['rapsodia_em_agosto', 'direcao', 'akira_kurosawa']['shizukanaru_ketto', 'direcao', 'akira_kurosawa']['shubun', 'direcao', 'akira_kurosawa']['sonhos_(filme)', 'direcao', 'akira_kurosawa']['sugata_sanshiro_(filme)', 'direcao', 'akira_kurosawa']['tengoku_to_jigoku', 'direcao', 'akira_kurosawa']['tora_no_o_wo_fumu_otokotachi', 'direcao', 'akira_kurosawa']['yoidore_tenshi', 'direcao', 'akira_kurosawa']['yojimbo', 'direcao', 'akira_kurosawa']['zoku_sugata_sanshiro', 'direcao', 'akira_kurosawa']
+Frase 126: Em que fuso horário está Roma?
+Frase 127: Qual a moeda da China?['china', 'moeda', 'renminbi']
+Frase 128: Quem são os desenvolvedores do DBPedia?['dbpedia', 'desenvolvedor', 'openlink_software']['dbpedia', 'desenvolvedor', 'universidade_de_leipzig']['dbpedia', 'desenvolvedor', 'universidade_livre_de_berlim']
+Frase 129: O local onde Abraham Lincoln morreu tem um website?['abraham_lincoln', 'mortelocal', 'washington,_d.c.']['washington,_d.c.', 'web', 'http://www.dc.gov/']
+Frase 130: Quem é o rei dos Países Baixos?
+Frase 131: Em que cidade Nikos Kazantzakis morreu?['nikos_kazantzakis', 'mortelocal', 'friburgo_em_brisgovia']
+Frase 132: Quem foi o pai da Rainha Elizabeth II?['isabel_ii_do_reino_unido', 'pai', 'jorge_vi_do_reino_unido']
+Frase 133: Liste todas as aves que correm perigo de extinção.
+Frase 135: De quais conflitos militares Lawrence da Arábia participou?
+Frase 137: Em que país nasce o Nilo?
+Frase 139: Que companhias produzem hovercrafts?
+Frase 140: Elvis Presley teve filhos?
+Frase 141: Em que cidade o presidente de Montenegro nasceu?
+Frase 142: Em que país Bill Gates nasceu?['bill_gates', 'birthPlace', 'estados_unidos']['estados_unidos', 'type', 'country']
+Frase 143: Em que país se fala japonês?['japao', 'línguaoficial', 'lingua_japonesa']['japao', 'type', 'country']
+Frase 144: Mostre me o livro que Muhammad Ali escreveu.
+Frase 145: Michelle Obama é a esposa de Barack Obama?['barack_obama', 'conjuge', 'michelle robinson']
+Frase 146: Qual é o código de área de Berlim?['berlim', 'codigotelefone', '30']
+Frase 147: Liste todos os atores que atuaram em Last Action Hero.['o_ultimo_grande_herói', 'elenco', 'anthony_quinn']['o_ultimo_grande_herói', 'elenco', 'arnold schwarzenegger']['o_ultimo_grande_herói', 'elenco', 'art_carney']['o_ultimo_grande_herói', 'elenco', 'austin_o'brien']['o_ultimo_grande_herói', 'elenco', 'bridgette_wilson']['o_ultimo_grande_herói', 'elenco', 'charles_dance']['o_ultimo_grande_herói', 'elenco', 'f._murray_abraham']['o_ultimo_grande_herói', 'elenco', 'robert_prosky']['o_ultimo_grande_herói', 'elenco', 'tom_noonan']
+Frase 148: Quais são os apelidos de San Francisco?
+Frase 150: Por quais países o rio Yenisei passa?
+Frase 151: Quais séries de televisão foram criadas por Walt Disney?['a_casa_de_mickey_mouse', 'criador', 'walt_disney']['a_casa_de_mickey_mouse', 'type', 'TelevisionShow']['mickey,_donald_e_pateta_(serie)', 'criador', 'walt_disney']['mickey,_donald_e_pateta_(serie)', 'type', 'TelevisionShow']['mickey_e_Donald', 'criador', 'walt_disney']['mickey_e_Donald', 'type', 'TelevisionShow']
+Frase 153: De que país é a Sitecore
+Frase 154: Com quem Lance Bass se casou?
+Frase 155: Qual a capital do Canadá?['canada', 'capital', 'ottawa']
+Frase 156: Em quem Vincent van Gogh se inspirou?
+Frase 157: Em que cidade John F. Kennedy morreu?['john_f._kennedy', 'mortelocal', 'dallas']['john_f._kennedy', 'mortelocal', 'texas']
+Frase 158: O presidente Jackson dos EUA se envolveu em uma guerra?['andrew_jackson', 'batalhas', 'guerra_anglo-americana_de_1812']['andrew_jackson', 'batalhas', 'guerra_da_independência_dos_estados_unidos']['andrew_jackson', 'batalhas', 'guerras_seminoles']
+Frase 159: Quem escreveu o tema do Game of Thrones?['game_of_thrones', 'abertura', 'ramin_djawadi']
+Frase 160: Quem projetou a Ponte do Brooklyn?
+Frase 161: Quando Boris Becker encerrou sua carreira?['boris_becker', 'abandono', '1999']
+Frase 162: Que tipos de uvas crescem no Oregon?
+Frase 163: Qual a altura de Michael Jordan?['michael_jordan', 'altura', '1,98 m']
+Frase 164: A que partido o prefeito de Paris pertence?
+Frase 165: Quem escreveu o livro Os Pilares da Terra?['os_pilares_da_terra', 'autor', 'ken_follett']
+Frase 166: Quem foi o 16o presidente dos Estados Unidos?
+Frase 167: Qual a altura do Monte Everest?['monte_everest', 'altitude', '8844 m']['monte_everest', 'altitude', '8848,43 m']
+Frase 168: Quem foi o orientador do doutorado de Albert Einstein?['albert_einstein', 'orientador', 'alfred_kleiner']
+Frase 169: Em que cidade Sylvester Stallone mora?
+Frase 170: Qual a moeda da República Tcheca?['republica_checa', 'moeda', 'coroa_checa']
+Frase 171: Sócrates influenciou Aristóteles?['aristoteles', 'influencias', 'socrates']
+Frase 172: Qual o fuso horário de Salt Lake City?['salt_lake_city', 'fusohorario', '-7']
+Frase 173: Quem é o filho de Sonny e Cher?['sonny_bono', 'conjuge', 'cher']['sonny_bono', 'filhos', 'chaz_bono']
+Frase 174: Em que cidade está a sede das Nações Unidas?['organizacao_das_nacoes_unidas', 'sede', 'nova_york']
+Frase 175: Quem é o fundador da Penguin Books?['penguin_books', 'fundador', 'allen_lane']
+Frase 176: Quando foi fundada a Jack Wolfskin?
+Frase 177: Quem é o prefeito de Rotterdam?['roterdao', 'nomelider', 'ahmed aboutaleb']
+Frase 178: Liste todos os oceanógrafos suecos.
+Frase 179: Mostre-me a autobiografia de Hemingway.['a_moveable_feast', 'genero', 'autobiografia']['a_moveable_feast', 'autor', 'ernest_hemingway']
+Frase 180: Quem são os pais da esposa de Juan Carlos I?['juan_carlos_da_espanha', 'conjuge', 'sofia_da_grecia']['sofia_da_grecia', 'mae', 'frederica_de_hanover']['sofia_da_grecia', 'pai', 'paulo_da_grecia']
+Frase 181: Tesla ganhou um Prêmio Nobel de Física?
+Frase 184: A proinsulina é uma proteína?
+Frase 185: Quem foram os pais da Rainha Victoria?['vitoria_do_reino_unido', 'mae', 'vitoria_de_saxe-coburgo-saalfeld']['vitoria_do_reino_unido', 'pai', 'eduardo,_duque_de_kent_e_strathearn']
+Frase 186: Che Guevara teve filhos?
+Frase 188: Kaurismäki alguma vez venceu o Grand Prix de Cannes?['aki_kaurismaki', 'cannes', 'grand prix']
+Frase 190: Onde está localizado o Fort Knox?
+Frase 191: Em que estado dos EUA fica o Fort Knox?
+Frase 192: Onde está enterrado Syngman Rhee?
+Frase 193: Qual é o fuso horário de São Pedro de Atacama?
+Frase 194: A que movimento artístico o pintor de As Três Dançarinas pertencia?
+Frase 195: Que cientista é conhecido pelo Projeto Manhattan e pelo Prêmio Nobel da Paz?
+Frase 196: Mostre-me todos os livros de Asimov da série Fundação.['the_currents_of_space', 'autor', 'isaac_asimov']['the_currents_of_space', 'serie', 'fundacao']
+Frase 199: Qual a altura da torre Yokohama Marine?
+Frase 202: Quem desenvolveu o jogo World of Warcraft?['world_of_warcraft:_cataclysm', 'desenvolvedora', 'blizzard_entertainment']['world_of_warcraft:_warlords_of_draenor', 'desenvolvedora', 'blizzard_entertainment']
+Frase 203: Qual papa fundou a Televisão do Vaticano?
+Frase 204: Quem é o compositor da música de Harold e Maude?
+Frase 205: Liste todos os membros da Prodigy['the_prodigy', 'integrantes', 'keith_flint']['the_prodigy', 'integrantes', 'liam_howlett']['the_prodigy', 'integrantes', 'maxim_reality']
+Frase 206: Quem atua nos filmes espanhois produzidos por Benicio del Toro?['che_(2008)', 'elenco', 'benicio_del_toro']['che_(2008)', 'elenco', 'catalina_sandino_Moreno']['che_(2008)', 'elenco', 'demian_bichir']['che_(2008)', 'elenco', 'edgar_ramírez']['che_(2008)', 'elenco', 'franka_potente']['che_(2008)', 'elenco', 'joaquim_de_almeida']['che_(2008)', 'elenco', 'julia_ormond']['che_(2008)', 'elenco', 'lou_diamond_phillips']['che_(2008)', 'elenco', 'rodrigo_santoro']['che_(2008)', 'elenco', 'santiago_cabrera']['che_(2008)', 'producao', 'benicio_del_toro']['che_(2008)', 'producao', 'benicio_del_toro']['che_(2008)', 'producao', 'benicio_del_toro']['che_(2008)', 'producao', 'benicio_del_toro']['che_(2008)', 'producao', 'benicio_del_toro']['che_(2008)', 'producao', 'benicio_del_toro']['che_(2008)', 'producao', 'benicio_del_toro']['che_(2008)', 'producao', 'benicio_del_toro']['che_(2008)', 'producao', 'benicio_del_toro']['che_(2008)', 'producao', 'benicio_del_toro']
+Frase 207: Qual subsidiária da TUI Travel vôa para Glasgow e Dublin?
+Frase 208: Em qual país está localizada Meca?
+Frase 209: Quantos idiomas são falados na Colômbia?['lingua_bora', 'estados', 'colombia']['lingua_cocama', 'estados', 'colombia']['lingua_coconuco', 'estados', 'colombia']['lingua_cofan', 'estados', 'colombia']['lingua_cubeo', 'estados', 'colombia']['lingua_guanano', 'estados', 'colombia']['lingua_kuna', 'estados', 'colombia']['lingua_murui_huitoto', 'estados', 'colombia']['lingua_quichua', 'estados', 'colombia']['lingua_tucana', 'estados', 'colombia']['lingua_wayuu', 'estados', 'colombia']['lingua_yagua', 'estados', 'colombia']['nheengatu', 'estados', 'colombia']['palenquero', 'estados', 'colombia']
+Frase 211: Que surfistas profissionais nasceram nas Filipinas?
+Frase 212: Quais são os cinco condados de New York?['nova_iorque', 'condado', 'bronx']['nova_iorque', 'condado', 'kings']['nova_iorque', 'condado', 'nova iorque']['nova_iorque', 'condado', 'queens']['nova_iorque', 'condado', 'richmond']
+Frase 213: Cola é uma bebida?
+Frase 214: Quando a princesa Diana morreu?
+Frase 215: Onde é produzido o vinho espumante na França?
